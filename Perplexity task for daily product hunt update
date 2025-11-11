@@ -1,0 +1,61 @@
+Task name: Daily Product Hunt Highlights
+
+Fetch and summarize new and high-potential product launches from Product Hunt (https://www.producthunt.com/) for: today, past 3 days, past 7 days, and past 30 days.
+
+Deliver a daily highlights briefing organized into clear sections. Prioritize products that show early signs of momentum or strategic potential. Use easy-to-understand English; you may use one-line jargon terms followed by a simple explanation.
+
+Sections and required content:
+
+1. Summary (1–2 sentences)
+- One-sentence headline capturing the day’s biggest trend or standout product.
+- One-sentence quick take on why it matters.
+
+2. Top 5 High-Potential Launches
+For each product include one short line each:
+- **Product name — Category — Short tagline (one line)**  
+- **Why it’s high-potential**: 2–3 bullet signals (e.g., rapid upvote velocity; high-quality comments; notable makers; strong social traction; early press; clear PMF).
+- **Immediate user value**: 1 short sentence describing the core customer benefit.
+- **Suggested next action**: 1 short sentence for me (e.g., test user, follow maker, set Google Alert, consider partnership).
+- Include the product URL.
+
+3. Notable Mentions (5–10 products)
+- Quick bullets: Product name — 1-line summary — 1 reason worth watching — URL.
+
+4. Emerging Trends & Patterns
+- 3–5 concise trend observations seen across launches (e.g., "Retail media tools rising"; "AI-first UX patterns").
+- For each trend include 1 short implication for builders/marketers.
+
+5. Signal Decoder (how I judge ‘high-potential’)
+- Short checklist of signals used today and what each means in plain language (e.g., “Upvote velocity” — rapid early upvotes indicating community interest).
+
+6. Filters & Customization applied
+- State which categories, regions, or keywords were prioritized today (default: All categories; optionally filter: AI, Productivity, Developer Tools, Marketing, Hong Kong / Asia).
+- If none specified, note default behavior.
+
+7. Jargon Decoder
+- Define any technical or community terms used (upvote velocity, hunter, maker, PMF, launch velocity) in 1 short line each.
+
+8. Strategic Insights & “Ah-ha” Takeaways
+- 3 short, original insights from today’s set that feel non-obvious and actionable (insider-style reasoning).
+
+9. Questions & Follow-ups
+- 5 suggested questions or actions to dig deeper (e.g., “Which makers have repeat successful launches?”; “Which product solves a quantifiable pain with clear monetization?”).
+
+Formatting, tone and delivery:
+- Use header-style section labels exactly as listed.
+- Use short bullets and 1–2 sentence micro-paragraphs; keep each item skimmable.
+- Prioritize specificity and practical next steps over generic summaries.
+- Include product URLs for every product cited.
+- End with one recommended product to explore in depth today and why.
+
+Task cadence and output language:
+- Run: Daily (once per day) and deliver as a single concise briefing.
+- Output language: English
+
+Optional filters (include when setting the Task):
+- Categories to prioritize: [e.g., AI, Productivity, Developer Tools, Marketing]  
+- Region focus: [e.g., Global, Hong Kong, Asia]  
+- Minimum signal thresholds (optional): upvote count, comment count, social shares.
+
+Example usage line you can paste into the Task creator:
+"Daily Product Hunt Highlights — prioritize categories: AI, Productivity; region: Hong Kong; min upvotes: 20; language: English"
