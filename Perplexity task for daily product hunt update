@@ -1,3 +1,10 @@
+update (20251113)
+
+Fetch and summarize new and high-potential product launches from Product Hunt for today, past 3 days, past 7 days, and past 30 days. Organize briefing into: Summary, Top 5 High-Potential Launches (with product name, category, tagline, signals, user value, next action, URL), Notable Mentions (5–10), Emerging Trends & Patterns (3–5), Signal Decoder (how ‘high-potential’ judged), Filters & Customization applied, Jargon Decoder, Strategic Insights & 'Ah-ha' Takeaways (3), Questions & Follow-ups (5). Use clear headers, short bullets, skimmable sentences, product URLs, and end with one recommended product to explore in depth. Prioritize momentum signals and actionable next steps, default: all categories and global. Output in English. Optional filters: categories (e.g., AI, Productivity), region (e.g., Hong Kong/Asia), min upvotes/comments/social shares. Run daily, deliver as a single briefing.
+
+===
+
+
 Task name: Daily Product Hunt Highlights
 
 Fetch and summarize new and high-potential product launches from Product Hunt (https://www.producthunt.com/) for: today, past 3 days, past 7 days, and past 30 days.
